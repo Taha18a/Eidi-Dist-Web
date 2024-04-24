@@ -174,9 +174,7 @@ function pkr5000() {
 }
 
 function Send() {
-    // if(sum > 100000) {
-    //     document.getElementById('limit1').innerHTML = 'Please send Eidi less than 100,000';
-    // }
+    
 
     document.getElementById('btn1').style.display = 'none';
     document.getElementById('noteImages').style.display = 'none';

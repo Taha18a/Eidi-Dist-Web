@@ -1,10 +1,10 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #14191c; /* Bright yellow background */
+    background-color: #14191c; 
     font-family: sans-serif;
     color: var(--color-2);
-    overflow-x: hidden; /* Prevent horizontal scrolling */
+    overflow-x: hidden; 
 }
 
 .headTop{
@@ -44,7 +44,7 @@ body {
 .btn:hover {
     cursor: pointer;
     transform: scale(1.03);
-    /* background-color: var(--color-2); */
+    
 }
 
 .input {
@@ -70,7 +70,7 @@ body {
 .main_page .page1 {
     margin: auto;
     width: 80%;
-    max-width: 800px; /* Adjusted max-width for responsiveness */
+    max-width: 800px; 
     height: 100%;
 }
 
@@ -99,7 +99,7 @@ body {
 .main_page #page6 #noteImages {
     margin: auto;
     width: 100%;
-    max-width: 800px; /* Adjusted max-width for responsiveness */
+    max-width: 800px; 
     height: 100%;
 }
 
